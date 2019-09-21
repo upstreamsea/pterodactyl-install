@@ -6,6 +6,7 @@ output(){
 
 copyright(){
     output "Pterodactyl Installation & Upgrade script."
+    output "By Upstream Sea --- Discord: Upstream Sea#3920"
     output ""
 }
 
