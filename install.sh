@@ -11,6 +11,8 @@ copyright(){
     output "By using this script, you agree that you are not being offered a warranty of any kind, unless required by local law."
     output "This script can be used for commercial purpouses."
     output "Wanna help? Check my GitHub."
+    output ""
+    output ""
 }
 
 get_distribution(){
