@@ -8,6 +8,9 @@ copyright(){
     output "Pterodactyl Installation & Upgrade script."
     output "By Upstream Sea --- Discord: Upstream Sea#3920"
     output ""
+    output "By using this script, you agree that you are not being offered a warranty of any kind, unless required by local law."
+    output "This script can be used for commercial purpouses."
+    output "Wanna help? Check my GitHub."
 }
 
 get_distribution(){
