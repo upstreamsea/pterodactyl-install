@@ -12,7 +12,6 @@ copyright(){
     output "This script can be used for commercial purpouses."
     output "Wanna help? Check my GitHub."
     output ""
-    output ""
 }
 
 get_distribution(){
