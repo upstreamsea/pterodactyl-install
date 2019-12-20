@@ -29,7 +29,7 @@ get_distribution(){
             exit 0
         fi
 	elif [ "$lsb_dist" = "debian" ]; then
-        if [ "$dist_version" != "9" ] && [ "$dist_version" != "8" ]; then
+        if [ "$dist_version" != "9" ] && [ "$dist_version" != "8" ] && ["$dist_version" != "10" ]; then
             output "Unsupported Debian version. Only Debian 9 and 8 are supported.."
             exit 0
 		fi
