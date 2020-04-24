@@ -7,12 +7,7 @@ The script will **NEVER** try to compromise your machine in any means. I don't b
 
 Note: If you're not Root, please run all commands as sudo.
 
-To start the process, retrieve the ```install.sh``` script by using the following:
-```git clone https://github.com/upstreamsea/pterodactyl-install.git```
-
-Once cloned, give the folder recursive permissions via using ```chmod -R 0755 pterodactyl-install```
-
-After the correct permissions are granted, run ```./pterodactyl-install/install.sh```, then follow the simple setup process.
+Run ```bash <(curl -s https://raw.githubusercontent.com/upstreamsea/pterodactyl-install/master/install.sh)```, then follow the simple setup process.
 
 # Issues?
 Make a issue request. 
